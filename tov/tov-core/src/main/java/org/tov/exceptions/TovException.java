@@ -1,4 +1,4 @@
-package org.tov.execptions;
+package org.tov.exceptions;
 
 import javax.ejb.ApplicationException;
 
